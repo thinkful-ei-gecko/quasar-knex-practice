@@ -1,0 +1,22 @@
+INSERT INTO blogful_articles (title, date_published, content)
+VALUES
+('title 1', now(), 'content 1'),
+('title 2', now(), 'content 2'),
+('title 3', now(), 'content 3'),
+('title 4', now(), 'content 4'),
+('title 5', now(), 'content 5'),
+('title 6', now(), 'content 6'),
+('title 7', now(), 'content 7'),
+('title 8', now(), 'content 8'),
+('title 9', now(), 'content 9'),
+('title 10', now(), 'content 10'),
+('title 11', now(), 'content 11'),
+('title 12', now(), 'content 12'),
+('title 13', now(), 'content 13'),
+('title 14', now(), 'content 14'),
+('title 15', now(), 'content 15'),
+('title 16', now(), 'content 16'),
+('title 17', now(), 'content 17'),
+('title 18', now(), 'content 18'),
+('title 19', now(), 'content 19'),
+('title 20', now(), 'content 20');
